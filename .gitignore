@@ -1,0 +1,4 @@
+*.map
+*.drc
+.DS_Store
+Thumbs.db
